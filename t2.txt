@@ -1,1 +1,9 @@
 t2.txt
+=================
+Git is tracking the file
+Git is tracking the file
+Git is tracking the file
+Git is tracking the file
+Git is tracking the file
+Git is tracking the file
+================
