@@ -3,4 +3,6 @@ logic 1 implemented
 logic 2 implemented
 logic 3 implemented
 logic 4 implemented
+logic 5 implemented
+
 
