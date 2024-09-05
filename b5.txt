@@ -1,2 +1,3 @@
 hello
 logic 1 implemented
+logic 2 implemented
